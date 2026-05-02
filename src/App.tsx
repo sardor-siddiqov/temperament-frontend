@@ -621,7 +621,7 @@ export default function App() {
             </div>
 
             <p className="text-xs leading-relaxed text-slate-400 mb-8 uppercase font-bold tracking-widest">
-              © 2026 Temperament Testi. Barcha huquqlar himoyalangan. Bu test tibbiy yoki psixologik tashxis qo‘ymaydi.
+              © 2026 Temperament Testi. Barcha huquqlar himoyalangan. Bu test tibbiy yoki psixologik tashxis qo‘ymaydi.Muallif : Siddiqov Sardorbek
             </p>
           </div>
         </div>
