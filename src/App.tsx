@@ -253,10 +253,6 @@ export default function App() {
                     {loading ? <Loader2 className="w-5 h-5 animate-spin" /> : 'Testni boshlash'}
                     {!loading && <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />}
                   </button>
-
-                  <button className="border-2 border-brand-outline-variant text-brand-on-surface px-10 py-5 rounded-2xl font-bold text-lg hover:bg-brand-surface-container transition-all">
-                    Batafsil ma’lumot
-                  </button>
                 </div>
 
                 {error && (
